@@ -14,3 +14,5 @@
 - 上传图片地址
   [图片地址](https://picx.xpoet.cn/#/upload)
    ![Picx](https://cdn.staticaly.com/gh/creatliukun/picx@master/images/picx.yoxm5346z1s.jpg "Picx")
+- 图形界面
+   ![Picx](https://cdn.staticaly.com/gh/creatliukun/picx@master/images/view.2xqqe7mhqgy0.jpg "Picx")
